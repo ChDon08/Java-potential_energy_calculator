@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d54966da-0a4b-4153-8c0a-6278f546c951" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-potential_energy_calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="d54966da-0a4b-4153-8c0a-6278f546c951" name="Changes" comment="basic code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +47,37 @@
       <option name="presentableId" value="Default" />
       <updated>1706904267661</updated>
     </task>
+    <task id="LOCAL-00001" summary="basic cose">
+      <option name="closed" value="true" />
+      <created>1706906056358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706906056358</updated>
+    </task>
+    <task id="LOCAL-00002" summary="basic cose">
+      <option name="closed" value="true" />
+      <created>1706906077835</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706906077835</updated>
+    </task>
+    <task id="LOCAL-00003" summary="basic code">
+      <option name="closed" value="true" />
+      <created>1706906098871</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706906098872</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="basic cose" />
+    <MESSAGE value="basic code" />
+    <option name="LAST_COMMIT_MESSAGE" value="basic code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
